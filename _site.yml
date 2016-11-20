@@ -4,5 +4,9 @@ navbar:
   left:
     - text: "თავფურცელი"
       href: index.html
+    - text: "თემები"
+      href: pages/topic.html
     - text: "შეხვედრები"
-      href: pages/m1/meeting1.nb.html
+      menu:
+        - text: "შეხვედრა 1"
+          href: pages/m1/meeting1.nb.html
