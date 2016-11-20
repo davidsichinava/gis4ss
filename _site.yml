@@ -1,0 +1,8 @@
+name: "რმ-ანალიზი R-გარემოში"
+navbar:
+  title: "ნავიგაცია"
+  left:
+    - text: "თავფურცელი"
+      href: index.html
+    - text: "შეხვედრები"
+      href: pages/m1/meeting1.nb.html
