@@ -1,4 +1,4 @@
-name: "რმ-ანალიზი R-გარემოში"
+name: "გეოინფორმაციული სისტემები სოციალურ მეცნიერებებში"
 navbar:
   title: "ნავიგაცია"
   left:
@@ -6,7 +6,3 @@ navbar:
       href: index.html
     - text: "თემები"
       href: pages/topic.html
-    - text: "შეხვედრები"
-      menu:
-        - text: "შეხვედრა 1"
-          href: pages/m1/meeting1.nb.html
